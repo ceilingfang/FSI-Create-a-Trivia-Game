@@ -1,5 +1,5 @@
 // Your Code Here
 let userName = window.prompt('Please Enter Your Name')
-for(let text = 0; text < questions.length; text++) {
+for(let i = 0; i < questions.length; i++) {
     console.log(questions.text)
 }
